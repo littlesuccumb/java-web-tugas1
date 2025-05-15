@@ -1,0 +1,26 @@
+# Java Web Tugas 1 - AIProject
+
+Proyek ini merupakan tugas pembuatan aplikasi web sederhana menggunakan Java (NetBeans).
+
+## 📋 Fitur
+- Halaman login dan register
+- Validasi form dengan JSP
+- Tampilan halaman utama setelah login
+- Navigasi antar halaman JSP
+
+## 🛠️ Teknologi yang Digunakan
+- Java
+- JSP (Java Server Pages)
+- HTML, CSS
+- NetBeans IDE
+- Web Server (Tomcat/GlassFish)
+
+## 🚀 Cara Menjalankan
+1. Clone repositori ini ke komputer Anda.
+2. Buka proyek dengan NetBeans.
+3. Jalankan server Tomcat/GlassFish.
+4. Akses di browser: `http://localhost:8080/AIProject`
+
+## 👨‍💻 Pembuat
+Muhamad Aliph  Fauzansyah (22110524)
+STMIK Mardira Indonesia
